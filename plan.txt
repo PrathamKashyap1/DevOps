@@ -1,0 +1,1 @@
+First I am planning on implementing a segment tree to find which segment the word to mostly be present. And after finding that I will create a new HashSet or Trie(efficient) to search for how long did the word match. And use this estimate to find matching and acceptance probability of title.
